@@ -185,7 +185,7 @@ const Hero = () => {
               playsInline
           
             >
-              <source src="Kareem/song.mp4"  type="video/mp4" />
+              <source src="assets/song.mp4"  type="video/mp4" />
             </video>
             <div className="hero-overlay" />
           </div>

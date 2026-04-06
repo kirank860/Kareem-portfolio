@@ -103,9 +103,9 @@ const Category = () => {
       <div className="categories-container" id="category">
         {/* FASHION CATEGORY */}
         <Link to="/fashion" className="category-item">
-          {/* Background image from your /public/Kareem/ directory */}
+          {/* Background image from your /public/assets/ directory */}
           <img 
-            src="/Kareem/fashion.png" 
+            src="/assets/fashion.png" 
             alt="Fashion Photography" 
             className="category-bg" 
           />
@@ -124,7 +124,7 @@ const Category = () => {
         {/* EVENTS CATEGORY */}
         <Link to="/events" className="category-item">
         <img 
-            src="/Kareem/fashion.png" 
+            src="/assets/fashion.png" 
             alt="Fashion Photography" 
             className="category-bg" 
           />
@@ -140,7 +140,7 @@ const Category = () => {
         {/* PRODUCT CATEGORY */}
         <Link to="/product" className="category-item">
         <img 
-            src="/Kareem/fashion.png" 
+            src="/assets/fashion.png" 
             alt="Fashion Photography" 
             className="category-bg" 
           />
@@ -154,7 +154,7 @@ const Category = () => {
         </Link>
         <Link to="/product" className="category-item">
         <img 
-            src="/Kareem/fashion.png" 
+            src="/assets/fashion.png" 
             alt="Fashion Photography" 
             className="category-bg" 
           />
@@ -168,7 +168,7 @@ const Category = () => {
         </Link>
         <Link to="/product" className="category-item">
         <img 
-            src="/Kareem/fashion.png" 
+            src="/assets/fashion.png" 
             alt="Fashion Photography" 
             className="category-bg" 
           />
