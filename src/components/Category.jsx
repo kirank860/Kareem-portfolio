@@ -106,7 +106,7 @@ const Category = () => {
           {/* Background image from your /public/assets/ directory */}
           <img 
             src="/assets/fashion.png" 
-            alt="Fashion Photography" 
+           alt="Fashion" loading="lazy"
             className="category-bg" 
           />
           
@@ -125,7 +125,7 @@ const Category = () => {
         <Link to="/events" className="category-item">
         <img 
             src="/assets/fashion.png" 
-            alt="Fashion Photography" 
+           alt="Fashion" loading="lazy"
             className="category-bg" 
           />
           <div className="category-header">
@@ -141,7 +141,7 @@ const Category = () => {
         <Link to="/product" className="category-item">
         <img 
             src="/assets/fashion.png" 
-            alt="Fashion Photography" 
+           alt="Fashion" loading="lazy"
             className="category-bg" 
           />
           <div className="category-header">
@@ -155,7 +155,7 @@ const Category = () => {
         <Link to="/product" className="category-item">
         <img 
             src="/assets/fashion.png" 
-            alt="Fashion Photography" 
+           alt="Fashion" loading="lazy"
             className="category-bg" 
           />
           <div className="category-header">
@@ -169,7 +169,7 @@ const Category = () => {
         <Link to="/product" className="category-item">
         <img 
             src="/assets/fashion.png" 
-            alt="Fashion Photography" 
+           alt="Fashion" loading="lazy"
             className="category-bg" 
           />
           <div className="category-header">
